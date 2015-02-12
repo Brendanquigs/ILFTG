@@ -54,3 +54,4 @@ group :development, :test do
   gem 'spring'
 end
 gem 'devise'
+gem 'simple_form'
